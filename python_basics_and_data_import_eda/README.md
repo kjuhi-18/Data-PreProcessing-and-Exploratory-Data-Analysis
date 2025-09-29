@@ -1,45 +1,55 @@
-# 🐍 Python Basics & Data Import
+🐍 Python Basics & Data Import
 
-> A beginner-friendly introduction to **Python programming** and **data importing techniques**.  
-> This module is part of the larger repo **[Data Preprocessing and EDA](../README.md)**.
 
----
 
-## 📂 Contents
 
-### 1️⃣ [Python_basics.ipynb](./Python_basics.ipynb)
-🔹 Learn the fundamentals of Python:  
-- Strings, variables, and data types  
-- Loops & conditionals  
-- Basic operations and examples  
-- Foundation for data analysis workflows  
 
----
 
-### 2️⃣ [Data Importing.ipynb](./Data%20Importing.ipynb)
-🔹 Practical guide to handling data:  
-- Importing with **Pandas** & **NumPy**  
-- Reading CSV, Excel, and other formats  
-- Structuring data for analysis  
-- First step toward preprocessing & EDA  
 
----
 
-## ⚙️ Requirements
+Beginner-friendly notebooks covering Python fundamentals and data importing techniques.
 
-Make sure you have these installed before running the notebooks:
+📂 Contents
 
-```bash
+1️⃣ Python_basics.ipynb
+
+Learn the fundamentals of Python with hands-on examples:
+
+📝 Variables, data types, and strings
+
+🔄 Loops & conditionals
+
+➕ Basic operations and Python examples
+
+🚀 Foundation for data analysis workflows
+
+2️⃣ Data Importing.ipynb
+
+A practical guide to loading and handling data:
+
+📥 Importing data with Pandas & NumPy
+
+📄 Reading CSV, Excel, and other file formats
+
+🗂 Structuring data for analysis
+
+🔍 First step toward preprocessing & exploratory data analysis (EDA)
+
+⚙️ Requirements
+
+Make sure you have the following installed before running the notebooks:
+
 pip install numpy pandas jupyter
-Launch with:
-
-bash
-Copy code
 jupyter notebook
-🌟 Highlights
-✨ Beginner-friendly notebooks
-📘 Python basics explained with examples
-📂 Data importing made simple
-🚀 Foundation for further data preprocessing & EDA
 
-📌 Use these notebooks as a stepping stone to dive into deeper data preprocessing and exploratory data analysis.
+🌟 Highlights
+
+✨ Beginner-friendly Python basics
+
+📘 Hands-on data importing techniques
+
+📂 Work with real-world datasets
+
+🚀 Build a foundation for preprocessing & EDA
+
+📌 Use these notebooks as a stepping stone to explore deeper data preprocessing and exploratory data analysis.
