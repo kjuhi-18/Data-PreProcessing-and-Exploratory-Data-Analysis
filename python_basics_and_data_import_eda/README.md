@@ -35,6 +35,8 @@ A practical guide to loading and handling data:
 
 🔍 First step toward preprocessing & exploratory data analysis (EDA)
 
+🗂️ 100 Sales Records.csv
+
 ⚙️ Requirements
 
 Make sure you have the following installed before running the notebooks:
