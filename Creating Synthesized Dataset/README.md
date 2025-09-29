@@ -32,8 +32,11 @@ It is stored in the folder **`Creating Synthesized Dataset`**, under the repo **
 ---
 
 ## 📂 Repository Structure  
+
 data preprocessing and exploratory data analysis/
+
 │── Creating Synthesized Dataset/
+
 │ └── Creating Synthesized Dataset.ipynb
 
 ---
