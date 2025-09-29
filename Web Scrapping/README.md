@@ -43,5 +43,5 @@ This notebook is a **hands-on intro** to web scraping, showing how raw webpage c
 
 ---
 
-## 📂 Repository Structure  
+
 
