@@ -58,12 +58,15 @@ The notebook (`Basic EDA.ipynb`) guides you step by step:
 1. **Clone or download** this repo  
 2. Install the required libraries:  
    ```bash
-3.Open the notebook:jupyter notebook "Basic EDA.ipynb"
-4.Run the cells one by one and follow along — like a data detective solving a mystery 🕵️
    pip install pandas numpy matplotlib
+3.Open the notebook:jupyter notebook "Basic EDA.ipynb"
+
+4.Run the cells one by one and follow along — like a data detective solving a mystery 🕵️
+  
 ✨ Why This Project?
 
 Exploratory Data Analysis is the first step in any data science project.
+
 This notebook will help you:
 
 Understand your dataset better
