@@ -1,4 +1,3 @@
-
 🔄 Different Scaling Techniques
 
 Welcome to the Different Scaling Techniques folder of the Data Preprocessing and Exploratory Data Analysis repo! 🎉
@@ -131,13 +130,8 @@ Clone or download the repo
 
 Install the required libraries:
 
-pandas
+pip install pandas numpy scikit-learn matplotlib
 
-numpy
-
-scikit-learn
-
-matplotlib
 
 Launch the notebook:
 
@@ -159,6 +153,6 @@ Scaling is a core step in preprocessing that ensures every feature contributes f
 
 🔑 Takeaway:
 
-Min-Max = keeps values in a fixed range
+Min-Max → keeps values in a fixed range
 
-Standard Scaler = centers & normalizes data for robustness
+Standard Scaler → centers & normalizes data for robustness
