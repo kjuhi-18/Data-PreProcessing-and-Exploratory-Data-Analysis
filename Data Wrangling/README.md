@@ -23,7 +23,7 @@ Just as clean and prepared ingredients make cooking easier, clean and organized 
 
 📑 Titanic.csv → Dataset of Titanic passengers
 
-🗂️ The Titanic Dataset
+
 
 This dataset is about passengers aboard the Titanic and is one of the most famous datasets for practicing data analysis.
 
