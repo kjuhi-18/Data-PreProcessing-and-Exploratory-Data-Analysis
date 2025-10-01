@@ -54,22 +54,16 @@ Direct comparison is unfair because the numbers are on different scales. The sam
    ```bash
    pip install pandas numpy scikit-learn matplotlib
 
-3.Launch the notebook:
+3.Launch the notebook:jupyter notebook "Different Scaling.ipynb"
 
-jupyter notebook "Different Scaling.ipynb"
+
 
 4.Run all cells ▶️ and follow the visuals and notes.
 
 ✨ Visual Flow Inside the Notebook
 
 
-📊 Original Data →
-
-📏 Min-Max Scaled Data →
-
-🎯 Standard Scaled Data →
-
-⚖️ Comparison Plot
+📊 Original Data →📏 Min-Max Scaled Data →🎯 Standard Scaled Data →⚖️ Comparison Plot
 
 🚀 Why This Matters
 
