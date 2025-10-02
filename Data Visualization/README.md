@@ -8,48 +8,44 @@ If you’re just starting out with Python and Data Science, this folder is your 
 📂 Folder Contents
 📘 Data Visualization Part 1.ipynb
 
-👉 Focus: Basics of Plotting
+Focus: Basics of Plotting
 
-Importing libraries: matplotlib, numpy.
+Importing libraries: matplotlib, numpy
 
-Creating arrays of numbers with NumPy.
+Creating arrays of numbers with NumPy
 
-Drawing your first line plot.
+Drawing your first line plot
 
-Understanding how data flows from numbers → graph.
+Understanding how data flows from numbers → graph
 
 💡 Think of this notebook as your "Hello World!" of data visualization.
 
 📘 Data Visualization Part 2.ipynb
 
-👉 Focus: Styling & Customization
+Focus: Styling & Customization
 
-Changing line colors and line styles.
+Changing line colors and line styles
 
-Making plots more readable and attractive.
+Making plots more readable and attractive
 
-Exploring how styling affects the way we interpret data.
+Exploring how styling affects data interpretation
 
-Hands-on examples with variations.
+Hands-on examples with variations
 
-💡 Here, you learn to add “makeup” to your plots so they don’t just inform, they impress!
+💡 Here, you learn to add “makeup” to your plots so they don’t just inform—they impress!
 
 🛠️ Tools You’ll Use
-
-Python 🐍 → the programming language.
-
-NumPy 🔢 → for handling numbers & arrays.
-
-Matplotlib 📊 → for creating charts.
-
-Jupyter Notebook 📓 → interactive environment to run and test code.
-
+Tool	Purpose
+Python 🐍	Programming language
+NumPy 🔢	Handling numbers & arrays
+Matplotlib 📊	Creating charts
+Jupyter Notebook 📓	Interactive environment to run and test code
 👩‍🎓 Who is this for?
 
-This folder is designed for:
-✅ Beginners who are new to Data Visualization.
-✅ Students starting with Data Science.
-✅ Anyone curious about how data turns into pictures that tell stories.
+This folder is perfect for:
+✅ Beginners new to Data Visualization
+✅ Students starting Data Science
+✅ Anyone curious about how data turns into pictures that tell stories
 
 🚀 How to Get Started
 
@@ -68,24 +64,19 @@ Open Jupyter Notebook
 jupyter notebook
 
 
-Open the .ipynb files and run the cells step by step.
+Open the .ipynb files and run the cells step by step
 
 🌟 What You’ll Learn
 
-🔹 How to import and use libraries.
-🔹 How to create data arrays with NumPy.
-🔹 How to make your first plots in Matplotlib.
-🔹 How to style plots with colors, line types, and more.
+How to import and use libraries
 
-📊 Example Visuals
+How to create data arrays with NumPy
 
-Here’s a sneak peek of what you’ll create:
+How to make your first plots in Matplotlib
 
-A basic line plot 📈
+How to style plots with colors, line types, and more
 
-The same plot but styled with different colors and line types 🎨
 
-(You can even add screenshots of your own plots here for extra visual appeal on GitHub!)
 
 ✨ Why This Matters
 
