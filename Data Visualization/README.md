@@ -36,28 +36,38 @@ Hands-on examples with variations
 💡 Here, you learn to add “makeup” to your plots so they don’t just inform—they impress!
 
 🛠️ Tools You’ll Use
+
 Tool	Purpose
+
 Python 🐍	Programming language
+
 NumPy 🔢	Handling numbers & arrays
+
 Matplotlib 📊	Creating charts
+
 Jupyter Notebook 📓	Interactive environment to run and test code
+
 👩‍🎓 Who is this for?
 
 This folder is perfect for:
+
 ✅ Beginners new to Data Visualization
+
 ✅ Students starting Data Science
+
 ✅ Anyone curious about how data turns into pictures that tell stories
+
 
 🚀 How to Get Started
 
 Clone the repo
 
-git clone https://github.com/your-username/data-preprocessing-and-exploratory-data-analysis.git
+git clone https://github.com/kjuhi-18/Data-PreProcessing-and-Exploratory-Data-Analysis.git
 
 
 Navigate to this folder
 
-cd data-preprocessing-and-exploratory-data-analysis/Data Visualization
+cd Data-PreProcessing-and-Exploratory-Data-Analysis/Data Visualization
 
 
 Open Jupyter Notebook
