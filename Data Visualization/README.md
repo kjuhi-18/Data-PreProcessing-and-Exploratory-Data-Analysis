@@ -6,6 +6,7 @@ Here, we transform plain numbers into beautiful charts and graphs using Matplotl
 If you’re just starting out with Python and Data Science, this folder is your first step into visual storytelling. 📊✨
 
 📂 Folder Contents
+
 📘 Data Visualization Part 1.ipynb
 
 Focus: Basics of Plotting
