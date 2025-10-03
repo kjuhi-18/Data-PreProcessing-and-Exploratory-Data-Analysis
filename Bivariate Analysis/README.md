@@ -116,4 +116,6 @@ All of these help you **see relationships clearly** rather than just reading num
 Together, these tools give you a deeper understanding of your dataset and guide better feature selection before modeling.
 
 ---
+🚀 Get Started!
 
+Ready? Open the notebooks, run the code, and start exploring relationships between variables with your first bivariate analysis! 📊✨
