@@ -20,16 +20,18 @@ Whether you’re starting in **Data Science** or just curious about data, this r
 
 ## 📂 Folder Structure
 
-| 📁 Folder / Notebook                    | 📖 Description                                     |
-| --------------------------------------- | -------------------------------------------------- |
-| `Python Basics and Data Analysis.ipynb` | Learn Python essentials for data analysis.         |
-| `Basic EDA.ipynb`                       | Explore your dataset and understand its structure. |
-| `Bivariate Analysis.ipynb`              | Discover relationships between variables.          |
-| `Data Visualization/`                   | Turn raw data into charts and visual stories.      |
-| `Data Wrangling.ipynb`                  | Clean, transform, and prepare data.                |
-| `Scaling and Encoding.ipynb`            | Standardize and encode data for machine learning.  |
-| `Web Scraping.ipynb`                    | Extract data from websites using Python.           |
-| `Visual Data Analysis.ipynb`            | Advanced visualization techniques for insights.    |
+| 📁 Folder / Notebook                    | 📖 Description                                         |
+| --------------------------------------- | ------------------------------------------------------ |
+| `Python Basics and Data Analysis.ipynb` | Learn Python essentials for data analysis.             |
+| `Basic EDA.ipynb`                       | Explore your dataset and understand its structure.     |
+| `Bivariate Analysis.ipynb`              | Discover relationships between variables.              |
+| `Creating Synthesized Dataset.ipynb`    | Generate artificial datasets for testing and learning. |
+| `Data Visualization`                    | Turn raw data into charts and visual stories.          |
+| `Data Wrangling.ipynb`                  | Clean, transform, and prepare data.                    |
+| `Different Scaling Techniques.ipynb`    | Apply various scaling methods to standardize data.     |
+| `Encoding.ipynb`                        | Convert categorical data into numerical form.          |
+| `Web Scraping.ipynb`                    | Extract data from websites using Python.               |
+| `Visual Data Analysis.ipynb`            | Advanced visualization techniques for insights.        |
 
 ---
 
@@ -39,8 +41,8 @@ Whether you’re starting in **Data Science** or just curious about data, this r
 * 🔹 **Exploratory Data Analysis (EDA):** Summarize datasets and understand relationships
 * 🔹 **Data Visualization:** Histograms, boxplots, scatterplots, heatmaps, pairplots
 * 🔹 **Feature Scaling & Encoding:** Prepare data for machine learning models
+* 🔹 **Creating Synthetic Data:** Generate artificial datasets for testing
 * 🔹 **Web Scraping:** Gather data from online sources
-* 🔹 **Synthetic Data Generation:** Create your own datasets for testing
 
 ---
 
