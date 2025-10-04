@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter
+notebook
+scikit-learn
+scipy
+beautifulsoup4
+requests
+tabulate
